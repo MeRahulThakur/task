@@ -15,4 +15,4 @@ Use **"npm start"** to run the project.
 # Step 4:
 To get number of products associated to each category, hit **"http://localhost:3000/all-categories"** from postman or any browser.
 
-# Note: Set "seedDB:false" and "seedDBForce:false" if you want to run the project for second time. If not done then it wil try to create the table again which might thorow you some errors on your console.
+# Note: Set "seedDB:false" and "seedDBForce:false" if you want to run the project for second time. If not done then it wil try to create the table again which might throw some errors on your console.
